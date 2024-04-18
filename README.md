@@ -85,8 +85,10 @@
 
 <h3>📊Github Stats</h3>
 <hr/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an-as006&show_icons=true&theme=dark&locale=en" alt="an-as006" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=an-as006&show_icons=true&theme=dark&locale=en&layout=compact" alt="an-as006" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=An-As006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=An-As006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an-as006&theme=dark" alt="an-as006" /></p>
 
 
