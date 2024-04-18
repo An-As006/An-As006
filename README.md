@@ -97,4 +97,7 @@
                 <p>- Anas Muhammed</p>
             </div>
 
+<h3>🏆 Github Trophies</h3> <hr/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an-as006&theme=dark" alt="an-as006" /></a> </p>
+
 
