@@ -91,4 +91,7 @@
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an-as006&theme=dark" alt="an-as006" /></p>
 
+<h2 align="left">📌Quotes</h2> <hr/>
+<h4 align="left">"Think Differently & Make Differences"</h4>
+
 
