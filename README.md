@@ -24,7 +24,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an-as006&label=Profile%20views&color=2aadfe&style=plastic" alt="an-as006" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an-as006" alt="an-as006" /></a> </p>
+[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an-as006" alt="an-as006" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=an-as006&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="an-as006" /></p>
 
