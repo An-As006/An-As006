@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐Social Links:</h3>
 <div align="left">
  
   <a  href="https://instagram.com/mr_4nax_6" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
@@ -24,7 +24,7 @@
 <a href="https://www.leetcode.com/anasmhd006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anasmhd006" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/anasmhd_offical" target="blank"><img src="https://img.shields.io/twitter/follow/anasmhd_offical?logo=twitter&style=for-the-badge" alt="anasmhd_offical" /></a> </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <div align="left">
  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
@@ -82,8 +82,8 @@
 <br/>
 
 
-
-
+<h3>📊Github Stats</h3>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an-as006&show_icons=true&theme=dark&locale=en" alt="an-as006" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=an-as006&show_icons=true&theme=dark&locale=en&layout=compact" alt="an-as006" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an-as006&theme=dark" alt="an-as006" /></p>
