@@ -95,14 +95,8 @@
             <div class="container">
                 <h3> Think Differently &amp; Makes Differences.</h3>
                 <p>- Anas Muhammed</p>
-             <style>
-              .container{
-               width:200px;
-               height:300px;
-               background:black;
-              }
-             </style>
             </div>
+            <br/>
 
 <h3>🏆 Github Trophies</h3> <hr/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an-as006&theme=darkhub" alt="an-as006" /></a> </p>
