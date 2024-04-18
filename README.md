@@ -95,6 +95,13 @@
             <div class="container">
                 <h3> Think Differently &amp; Makes Differences.</h3>
                 <p>- Anas Muhammed</p>
+             <style>
+              .container{
+               width:200px;
+               height:300px;
+               background:black;
+              }
+             </style>
             </div>
 
 <h3>🏆 Github Trophies</h3> <hr/>
