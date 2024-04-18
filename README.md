@@ -26,10 +26,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an-as006&theme=tokyonight" alt="an-as006" /></a> </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an-as006&show_icons=true&theme=tokyonight&locale=en" alt="an-as006" /></p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an-as006&theme=dark" alt="an-as006" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an-as006&show_icons=true&theme=tokyonight&locale=en" alt="an-as006" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=an-as006&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="an-as006" /></p>
 
