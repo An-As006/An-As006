@@ -14,7 +14,7 @@
 - 💬 Ask me about **react**
 
 <h3 align="left">🌐Social Links:</h3>
- <br/>
+ <hr/>
 <div align="left">
 
   <a  href="https://instagram.com/mr_4nax_6" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
