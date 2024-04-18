@@ -109,8 +109,6 @@
       ]]>
     </style>
   </defs>
-
-
             <style>
                 * {
                   padding: 0;
@@ -144,8 +142,6 @@
                   padding: 5px;
                   text-align: right;
                 }
-                
-                /* Default light theme */
                 .container {
                   background-color: #fffefe;
                 }
@@ -158,8 +154,6 @@
                 .container p {
                   color: #2f80ed;
                 }
-            
-                /* Default dark theme - iff dark mode detected in system settings, overriding default light theme */
                 @media (prefers-color-scheme: dark) {
                   .container {
                     background-color: #151515;
@@ -175,8 +169,6 @@
                     color: #fff;
                   }
                 }
-            
-                /* Default light/dark mode theme override for any custom theme */
                  .container {
                     background-color: #1a1b27;
 					border: 1px solid rgba(0, 0, 0, 0.2);
@@ -189,10 +181,8 @@
                   }
                   .container p {
                     color: #70a5fd;
-                  }
-                
+                  }     
             </style>
-
             <div class="container">
                 <h3> Think Differently &amp; Makes Differences.</h3>
                 <p>- Anas Muhammed</p>
