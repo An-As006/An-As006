@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
+  <img width="12" /> <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
@@ -79,7 +79,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an-as006&theme=dark" alt="an-as006" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=an-as006&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="an-as006" /></p>
