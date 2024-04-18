@@ -84,7 +84,7 @@
 
 
 <h3>📊Github Stats</h3>
-<br/>
+<hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an-as006&show_icons=true&theme=dark&locale=en" alt="an-as006" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=an-as006&show_icons=true&theme=dark&locale=en&layout=compact" alt="an-as006" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an-as006&theme=dark" alt="an-as006" /></p>
