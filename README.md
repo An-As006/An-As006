@@ -82,7 +82,7 @@
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=an-as006&show_icons=true&theme=dark&locale=en&layout=compact" alt="an-as006" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=an-as006&show_icons=true&theme=dark&locale=en&layout=compact" alt="an-as006" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an-as006&show_icons=true&theme=dark&locale=en" alt="an-as006" /></p>
 
